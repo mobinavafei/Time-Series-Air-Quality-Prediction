@@ -1,4 +1,4 @@
-# Time-Series-Air-Quality-Prediction
+# Time Series Air Quality Prediction
 Time-Series Air Quality Prediction Using Regularized Machine Learning Models
 Air Pollution is an important problem in urban areas that are effective on human health and environment. Accurately Predicting air pollution levels allows administrators to better monitor the environment, make more informed decision to protect public health and direct successful policies.
 In this Project, machine learning techniques used to predict carbon monoxide (CO(GT)) levels from sensor-based air quality data. The main goal of this study is building reliable regression models while addressing time dependency, data leakage, and model evaluation.
